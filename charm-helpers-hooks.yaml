@@ -1,4 +1,4 @@
-repo: https://github.com/juju/charm-helpers@stable/17.11
+repo: https://github.com/CanonicalBootStack/charm-helpers@fix-haproxy-check-credentials 
 destination: charmhelpers
 include:
     - core
